@@ -1,7 +1,6 @@
 // to store products in the array, with their name and price
 // how to group a product's details? 
 // by creating a "product" object, with "name" and "price" as properties (answer)
-
 var cartItems = []; // an empty ARRAY
 var isTotalHidden = true;
 
